@@ -3,7 +3,7 @@
 
 #---CONFIG---
 
-token = "TOKEN_HERE" # https://www.youtube.com/watch?v=tI1lzqzLQCs
+token = "NzY1MjgxNjU2MDEyODAwMDQw.X4SiFQ.XJxP8IZcEKDCVhZ1XoYthMc0vQY"
 prefix = "!" # This defines the selfbot prefix. You can customize it however you like, but you should probably keep it tiny.
 
 #--- BOT ---
